@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="touch_to_roll_dice">Tap to roll dice</string>
+    <string name="score_check">Tap the button below \n  to roll the dice</string>
+</resources>
